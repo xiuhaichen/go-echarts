@@ -1,6 +1,6 @@
 package opts
 
-import "github.com/go-echarts/go-echarts/v2/types"
+import "github.com/xiuhaichen/go-echarts/types"
 
 // ScatterChart is the option set for a scatter chart.
 // https://echarts.apache.org/en/option.html#series-scatter

@@ -5,13 +5,13 @@ import (
 	"encoding/json"
 	"html/template"
 
-	"github.com/go-echarts/go-echarts/v2/event"
-	"github.com/go-echarts/go-echarts/v2/types"
-	"github.com/go-echarts/go-echarts/v2/util"
+	"github.com/xiuhaichen/go-echarts/event"
+	"github.com/xiuhaichen/go-echarts/types"
+	"github.com/xiuhaichen/go-echarts/util"
 
-	"github.com/go-echarts/go-echarts/v2/datasets"
-	"github.com/go-echarts/go-echarts/v2/opts"
-	"github.com/go-echarts/go-echarts/v2/render"
+	"github.com/xiuhaichen/go-echarts/datasets"
+	"github.com/xiuhaichen/go-echarts/opts"
+	"github.com/xiuhaichen/go-echarts/render"
 )
 
 // GlobalOpts sets the Global options for charts.

@@ -3,7 +3,7 @@ package opts
 import (
 	"testing"
 
-	"github.com/go-echarts/go-echarts/v2/util"
+	"github.com/xiuhaichen/go-echarts/util"
 
 	"github.com/stretchr/testify/assert"
 )

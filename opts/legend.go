@@ -1,6 +1,6 @@
 package opts
 
-import "github.com/go-echarts/go-echarts/v2/types"
+import "github.com/xiuhaichen/go-echarts/types"
 
 // Legend is the option set for a legend component.
 // Legend component shows symbol, color and name of different series. You can click legends to toggle displaying series in the chart.

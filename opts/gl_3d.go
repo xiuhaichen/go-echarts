@@ -1,6 +1,6 @@
 package opts
 
-import "github.com/go-echarts/go-echarts/v2/types"
+import "github.com/xiuhaichen/go-echarts/types"
 
 // XAxis3D contains options for X axis in the 3D coordinate.
 type XAxis3D struct {

@@ -9,5 +9,5 @@
 
 
 [GitHub](https://github.com/go-echarts/go-echarts)
-[GoDoc](https://pkg.go.dev/github.com/go-echarts/go-echarts/v2)
+[GoDoc](https://pkg.go.dev/github.com/xiuhaichen/go-echarts)
 [Examples](https://github.com/go-echarts/examples)

@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/go-echarts/go-echarts/v2/types"
+	"github.com/xiuhaichen/go-echarts/types"
 )
 
 const (

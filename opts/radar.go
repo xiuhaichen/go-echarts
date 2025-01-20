@@ -1,6 +1,6 @@
 package opts
 
-import "github.com/go-echarts/go-echarts/v2/types"
+import "github.com/xiuhaichen/go-echarts/types"
 
 // RadarComponent is the option set for a radar component.
 // https://echarts.apache.org/en/option.html#radar
