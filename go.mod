@@ -1,4 +1,4 @@
-module github.com/go-echarts/go-echarts/v2
+module github.com/xiuhaichen/go-echarts
 
 go 1.18
 
