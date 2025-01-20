@@ -87,4 +87,7 @@ type Title struct {
 	// Positive values move the chart value to [right, bottom], negative values vice
 	// versa.
 	OffsetCenter []string `json:"offsetCenter,omitempty"`
+
+	TextAlign         string `json:"textAlign,omitempty"`
+    TextVerticalAlign string `json:"textVerticalAlign,omitempty"`
 }
